@@ -1,5 +1,5 @@
-<h1 align="center">XLR8 BOMBER 2.1
-<img src="logo.jpg"><br>
+<h1 align="center">agbomber a clone of xlr8
+<img src=""><br>
 </h1>
 
 * `💣 📱 💀`<br />
@@ -55,11 +55,11 @@ If it stuck just press enter-enter !!
 ## Usage
 Clone it by
 ```bash
-git clone https://github.com/anubhavanonymous/XLR8_BOMBER
+git clone https://github.com/allthack/agbomber
 ```
-Go to the Xlr8 Directory
+Go to the agbomber Directory
 ```bash
-cd XLR8_BOMBER
+cd agbomber
 ```
 Just Run it
 ```bash
@@ -77,7 +77,7 @@ bash xlr8.sh
 * `This bomber only works in India !!`
 
 ## Licence
-Apache 2.0 © Anubhav Kashyap
+Apache 2.0 © Anurag singh
 
 
 ## Screenshots (Termux)
